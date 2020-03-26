@@ -1,0 +1,6 @@
+export const ADD_USER = "ADD_USER";
+export const ADD_MESSAGE = "ADD_MESSAGE";
+export const SAVE_MESSAGE = "SAVE_MESSAGE";
+export const SET_INTERFACE_COLOR = "SET_INTERFACE_COLOR";
+export const SET_DATE_FORMAT = "SET_DATE_FORMAT ";
+export const ENABLE_KEY_PRESS = "ENABLE_KEY_PRESS";
